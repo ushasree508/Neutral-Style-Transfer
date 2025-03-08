@@ -41,19 +41,20 @@ pip install tensorflow numpy matplotlib pillow
 3. **Style Loss**: Encourages the generated image to adopt the artistic patterns of the style image.
 4. **Optimization**: Uses gradient descent to minimize content and style losses iteratively.
 
-## Example
-Example command:
-```bash
-python style_transfer.py --content images/lion.jpg --style images/van_gogh.jpg --output images/stylized_lion.jpg
-```
+COMPANY: CODTECH IT SOLUTIONS
 
-## References
-- Original paper: *A Neural Algorithm of Artistic Style* (Gatys et al., 2015)
-- TensorFlow/PyTorch documentation for NST
+NAME: ORSU USHA SREE
 
-## License
-This project is licensed under the MIT License.
+INTERN ID:CT08TMH
 
-## Contributions
-Contributions are welcome! Feel free to open issues or submit pull requests.
+DOMAIN:ARTIFICIAL INTELLIGENCE
+
+DURATION:4WEEKS
+
+MENTOR:NEELA SANTOSH ##OUTPUT
+
+![Screenshot (16)](https://github.com/user-attachments/assets/6bee8e11-d2f7-44c5-a9b2-d1cdbd6dfd33)
+
+
+
 
